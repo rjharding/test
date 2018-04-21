@@ -1,0 +1,12 @@
+[
+	{
+		"name": "wallpaper1",
+		"author": "Range Applications",
+		"url": "https://github.com/rjharding/test/raw/master/Website-Resources/wallpaper/wallpaper1.png",
+		"thumbnail": "https://github.com/rjharding/test/raw/master/Website-Resources/wallpaper/thumbnails/wallpaper1thumb.png",
+		"downloadable": true,
+		"size": 881861,
+		"dimensions": "1080 x 1920 px",
+		"copyright": "Range Application"
+	}
+]
